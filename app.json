@@ -2,7 +2,7 @@
   "expo": {
     "name": "NMT Calc",
     "slug": "NMT_Calc",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "orientation": "portrait",
     "icon": "./assets//icon/icon_2.png",
     "userInterfaceStyle": "automatic",
